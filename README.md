@@ -1,5 +1,8 @@
 # Git_Good
+
 Presentation repository for Git and GitHub
+
+Presentor: Brian Hankins
 
 Requirements:
 
