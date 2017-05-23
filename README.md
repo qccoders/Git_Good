@@ -17,3 +17,5 @@ Requirements:
 $ git config --global user.name "[name]"
 $ git config --global user.email "[email address]" 
 ```
+
+Instructor Notes can be found here: https://github.com/qccoders/Git_Good/blob/master/GitCourseOutline-InstructorNotesModified.docx?raw=true
