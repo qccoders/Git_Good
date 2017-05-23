@@ -2,7 +2,7 @@
 
 Presentation repository for Git and GitHub
 
-Presentor: Brian Hankins
+Presenter: Brian Hankins
 
 Requirements:
 
